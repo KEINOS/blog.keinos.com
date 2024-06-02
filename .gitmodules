@@ -1,0 +1,3 @@
+[submodule "cheetsheet"]
+	path = cheetsheet
+	url = https://github.com/KEINOS/cheetsheet.git
