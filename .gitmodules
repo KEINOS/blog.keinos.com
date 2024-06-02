@@ -1,3 +1,6 @@
 [submodule "cheetsheet"]
 	path = cheetsheet
 	url = https://github.com/KEINOS/cheetsheet.git
+[submodule "keywords"]
+	path = keywords
+	url = https://gist.github.com/7bcc4ef8b4b34193cac5f1f85def71ba.git
