@@ -4,3 +4,6 @@
 [submodule "keywords"]
 	path = keywords
 	url = https://gist.github.com/7bcc4ef8b4b34193cac5f1f85def71ba.git
+[submodule "go_os_stdin"]
+	path = go_os_stdin
+	url = https://gist.github.com/76857bc6339515d7144e00f17adb1090.git
